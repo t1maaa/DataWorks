@@ -55,6 +55,11 @@
         <Compile Include="RomanToIntTests.cs" />
         <Compile Include="DoubleLinkedListTests.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="src\DataWorks.cs" />
+        <Compile Include="src\DoubleLinkedList.cs" />
+        <Compile Include="src\DoubleLinkedListNode.cs" />
+        <Compile Include="src\IDoubleLinkedList.cs" />
+        <Compile Include="src\IDoubleLinkedListNode.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
